@@ -1,3 +1,20 @@
+<div>
+  <h1 align="center">ORKUT</h1> </br>
+  <h9 align="center"><em>Social media cloning fullstack.</em></h9> 
+</div>
+
+### To do
+
+[x] ReactJs 
+[x] NextJs 
+[x] SQL 
+
+<div>
+  <h1 align="center">PROTOTYPE</h1> </br>
+  <h9 align="center"><em>x</em></h9> 
+</div>
+
+
 # Example app with styled-components
 
 This example features how you use a different styling solution than [styled-jsx](https://github.com/vercel/styled-jsx) that also supports universal styles. That means we can serve the required styles for the first render within the HTML and then load the rest in the client. In this case we are using [styled-components](https://github.com/styled-components/styled-components).
