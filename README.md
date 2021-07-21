@@ -5,9 +5,9 @@
 
 ### To do
 
-[x] ReactJs 
-[x] NextJs 
-[x] SQL 
+- [x] ReactJs 
+- [x] NextJs 
+- [x] SQL 
 
 <div>
   <h1 align="center">PROTOTYPE</h1> </br>
