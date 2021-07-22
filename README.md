@@ -17,6 +17,13 @@
 
     v 0.0.0
 
+### To do
+
+- [x] ReactJs 
+- [x] NextJs 
+- [x] SQL 
+
+
 <div>
   <h1><img src="./src/versions/screen-v0.png"/></h1>
 </div>
