@@ -6,8 +6,8 @@
 ### To do
 
 - [x] ReactJs 
-- [x] NextJs 
-- [x] SQL 
+- [-] NextJs 
+- [-] SQL 
 
 <div>
   <h1 align="center">PROTOTYPE</h1> </br>
@@ -20,8 +20,8 @@
 ### To do
 
 - [x] ReactJs 
-- [x] NextJs 
-- [x] SQL 
+- [-] NextJs 
+- [-] SQL 
 
 
 <div>
