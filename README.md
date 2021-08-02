@@ -32,15 +32,19 @@
 ---
 
 <div>
-  <h1 align="center">DOCUMENTATION</h1>
+  <h1 align="center"> 📁 DOCUMENTATION</h1>
 </div>
 
-# #NPM LINES
+<div><h1>#NPM LINES</h1></div>
 
-    $ yarn dev
-.
+    $ npm run dev
+/// Start server
 
-    $ yarn run 
+    $ npm run build
+/// Build app
+    
+    $ npm start
+/// Build app for production main
 
 ---
 
